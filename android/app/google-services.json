@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311704334578",
+    "project_id": "evcharging2024",
+    "storage_bucket": "evcharging2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311704334578:android:9cc1d2f8d7b5a1e7bde06b",
+        "android_client_info": {
+          "package_name": "com.evchargingapp2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1NADaTpKEV9RMts2AK6eRwHdJcNQS7-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
